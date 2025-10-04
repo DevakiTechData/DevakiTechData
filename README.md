@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SLU DataNexus](https://github.com/DevakiTechData/DataNexus-Alumini.git)
 
-- 🌱 I’m currently learning **APPIUM, Selinium, TestNG, MITRE ATT&CK, Salesforce, React App Developemt,**
+- 🌱 I’m currently learning **APPIUM, Selinium, TestNG, MITRE ATT&CK, Salesforce, React App Developemt,leet Code**
 
 - 👯 I’m looking to collaborate on [SLU InfoSec Analytics and SLU DataNexus POwerBI Dashboards and React App development](https://github.com/DevakiTechData/DataNexus-Alumini.git)
 
