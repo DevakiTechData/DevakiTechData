@@ -16,7 +16,7 @@ Currently contributing as a **Python Developer for SLU’s DataNexus platform**,
 - 🤖 Exploring **AI-driven test automation** (ChatGPT, Gemini, local LLMs, RAG pipelines)
 - ☁️ Interested in **Cloud DevOps, CI/CD automation, AWS EC2/S3 deployments**
 - 📊 Passionate about **data pipelines, KPI dashboards, and predictive analytics**
-- 📫 Reach me at: **devakikrishna8089@gmail.com**
+- 📫 Reach me at: **bathalapalli.devaki@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/devakbathalapalli](https://www.linkedin.com/in/devakbathalapalli/)
 
 ---
