@@ -141,9 +141,3 @@ Cloud/DevOps: Docker, Jenkins
 
 ---
 
-## 📊 GitHub Stats (Optional Add-on)
-
-```markdown
-![Devaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevakiBathalapalli&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevakiBathalapallii&layout=compact&theme=radical)
