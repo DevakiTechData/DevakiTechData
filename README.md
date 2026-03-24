@@ -26,7 +26,7 @@ I specialize in **Playwright-based automation frameworks**, API testing, and end
 - 🤖 Exploring **AI-driven testing (ChatGPT, Gemini, RAG pipelines)**
 - ☁️ Interested in **Cloud QA, DevOps, and CI/CD automation**
 - 📫 Reach me at: **bathalapalli.devaki@gmail.com**
-- 🔗 LinkedIn: https://www.linkedin.com/in/devakibathalapalli/
+- 🔗 LinkedIn: [https://www.linkedin.com/in/devakibathalapalli/](https://www.linkedin.com/in/devbath/)
 
 ---
 
