@@ -1,99 +1,108 @@
-<h1 align="center">Hi, I'm Devaki Bathalapalli 👋</h1>
-<h3 align="center">Senior QA Automation Engineer | Playwright | API Testing | CI/CD | Cloud QA</h3>
+# Hi, I'm Devaki Bathalapalli 👋
 
-🚀 Results-driven QA Automation Engineer with 8+ years of experience designing, developing, and scaling automation frameworks across UI, API, backend, and cloud-based applications.
+### AI-Assisted Test Automation Engineer | Playwright | Selenium | Appium | API Testing
 
-I specialize in **Playwright-based automation frameworks**, API testing, and end-to-end validation of enterprise systems, ensuring high-quality, reliable, and secure releases.
+I am a Test Automation Engineer with experience testing **banking, insurance, healthcare, Salesforce, web, mobile, and API applications**. I build maintainable automation frameworks, integrate automated tests into CI/CD pipelines, and use AI responsibly to improve test design, coverage, debugging, and reporting.
+
+## 👩‍💻 About Me
+
+- 🔭 Currently working on Playwright-based UI, API, analytics, and end-to-end automation
+- 🤖 Using AI to accelerate test-case design, edge-case discovery, code review, failure analysis, and documentation
+- 🏦 Experienced in banking and financial applications, including American Express and ICICI
+- 🛡️ Experienced in insurance and healthcare applications, including PFA, AccentCare, and Catalent
+- ☁️ Familiar with AWS, Docker, GitHub Actions, Jenkins, and cloud-based test execution
+- 📱 Experienced in Android and iOS automation using Appium
+- 🎓 Master of Science in Information Systems from Saint Louis University
+- 🌱 Continuously learning agentic testing, AI-driven QA, Playwright, and modern automation architecture
+
+## 🛠️ Technical Skills
+
+### Test Automation
+
+`Playwright` `Selenium WebDriver` `Appium` `TestNG` `Cucumber BDD` `Screenplay Pattern` `Page Object Model` `Data-Driven Testing`
+
+### API, Performance & Data Testing
+
+`Playwright API` `Postman` `REST Assured` `REST APIs` `SOAP APIs` `OAuth 2.0` `JWT` `JMeter` `Tosca DI` `SQL`
+
+### Languages & Development
+
+`Java` `TypeScript` `JavaScript` `Python` `HTML` `CSS` `React` `Node.js` `SQL`
+
+### Cloud, DevOps & CI/CD
+
+`AWS` `Docker` `GitHub Actions` `Jenkins` `Azure DevOps` `Git` `GitHub` `GitLab`
+
+### Salesforce
+
+`Sales Cloud` `Service Cloud` `Health Cloud` `Experience Cloud` `Apex` `LWC` `SOQL` `CRM Analytics`
+
+## 🚀 Featured Project
+
+### [Playwright E2E & Telemetry Automation](https://github.com/DevakiTechData/Amex-E3-E2E)
+
+A Playwright and TypeScript framework for validating modern web journeys and supporting services.
+
+- End-to-end coverage for landing, home, authentication, and search journeys
+- UI and API validation using Playwright
+- Network-request and response-time verification
+- Typeahead/search-result testing
+- UI analytics and telemetry-event validation
+- Feature-rollout validation across controlled user buckets
+- Cross-browser and parallel execution
+- Failure evidence using screenshots, traces, and videos
+- Continuous execution using GitHub Actions
+
+> The public project uses sanitized examples and contains no confidential customer data, credentials, internal URLs, or proprietary business logic.
+
+## 🤖 How I Use AI in Testing
+
+```mermaid
+flowchart LR
+    A[Requirement] --> B[AI-assisted scenarios]
+    B --> C[Human review]
+    C --> D[Playwright automation]
+    D --> E[CI execution]
+    E --> F[Report and analysis]
+```
+
+- Convert requirements and acceptance criteria into initial test scenarios
+- Identify boundary, negative, accessibility, and integration cases
+- Generate starter automation code that I review and refine
+- Analyze Playwright traces, logs, screenshots, and CI failures
+- Improve reusable tasks, selectors, test data, and documentation
+- Keep final validation and release decisions under human review
+
+## 💼 Domain Experience
+
+| Domain | Selected Experience | Testing Focus |
+|---|---|---|
+| Banking & Financial Services | American Express, ICICI | Web, API, analytics, regression, end-to-end testing |
+| Insurance | PFA | Business workflows, integration, functional and automation testing |
+| Healthcare | AccentCare, Catalent | Salesforce, healthcare workflows, API, compliance-focused testing |
+| Mobile | Enterprise mobile applications | Android/iOS automation, gestures, device and cross-platform validation |
+| Salesforce | Sales, Service and Health Cloud | UI, workflow, integration, data and regression testing |
+
+## 🏆 Certifications & Recognition
+
+- Salesforce Platform Developer I
+- Salesforce Administrator
+- AWS Solutions Architect – Associate
+- ISTQB certifications
+- Best Employee – QualiZeal
+- Woman of Capgemini – India
+
+## 📊 GitHub Activity
+
+![Devaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevakiTechData&show_icons=true&theme=transparent)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevakiTechData&layout=compact&theme=transparent)
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile URL here
+- GitHub: [github.com/DevakiTechData](https://github.com/DevakiTechData)
 
 ---
 
-## 🔥 What I Do
-
-- ⚡ Build scalable **Playwright (JavaScript/TypeScript) automation frameworks**
-- 🧪 Perform **end-to-end testing (UI + API + Database + Backend)**
-- 🔌 Design and execute **API automation (Postman, REST Assured, Python)**
-- ☁️ Validate **AWS-based applications (EC2, S3)**
-- 🔄 Integrate automation into **CI/CD pipelines (Jenkins, GitHub Actions)**
-- 🐳 Containerize automation using **Docker**
-- 🔐 Perform **Security, GRC, and compliance testing**
-
----
-
-## 🧠 About Me
-
-- 🔭 Currently working on **enterprise automation frameworks and backend validations**
-- 🧪 Building **Playwright + API automation ecosystems**
-- 🤖 Exploring **AI-driven testing (ChatGPT, Gemini, RAG pipelines)**
-- ☁️ Interested in **Cloud QA, DevOps, and CI/CD automation**
-- 📫 Reach me at: **bathalapalli.devaki@gmail.com**
-- 🔗 LinkedIn: [https://www.linkedin.com/in/devakibathalapalli/](https://www.linkedin.com/in/devbath/)
-
----
-
-## 🛠 Tech Stack
-
-### 🧪 Automation
-Playwright • Selenium • Appium • TestNG • Cucumber • PyTest • REST Assured • Postman  
-
-### 💻 Languages
-Java • JavaScript • TypeScript • Python • SQL  
-
-### 🔌 API & Backend
-REST APIs • JSON/XML Validation • Authentication Testing  
-
-### ☁️ DevOps & Cloud
-AWS (EC2, S3) • Docker • Jenkins • GitHub Actions • CI/CD  
-
-### 🗄 Databases
-PostgreSQL • MongoDB • SQL • SOQL  
-
-### 📊 Data & Validation
-Power BI • Excel • Data Validation  
-
----
-
-## 💼 Experience Snapshot
-
-### 🏢 QA Automation Engineer — PFA (2024–Present)
-- Designed and built **Playwright automation framework (JS/TS)**
-- Automated **role-based workflows, dashboards, and portals**
-- Integrated automation into **CI/CD pipelines**
-- Performed **security and compliance testing (GRC)**
-
-### 🏢 Automation Engineer — Qualizeal
-- Built **Playwright + API automation frameworks**
-- Automated **Salesforce workflows and integrations**
-
-### 🏢 Capgemini
-- Developed **Selenium + Java framework for pharma systems**
-- Automated **complex workflows and compliance validations**
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Playwright Automation Framework *(Add Repo Link)*
-- POM architecture
-- Parallel execution
-- CI/CD integrated
-- Scalable and reusable
-
-### 🔹 API Automation Suite *(Add Repo Link)*
-- REST API validation
-- Authentication & payload testing
-- Automated test pipelines
-
-### 🔹 Automation + CI/CD Setup *(Add Repo Link)*
-- Jenkins + GitHub Actions integration
-- Dockerized execution
-
----
-
-## 🤖 AI in Testing
-ChatGPT • Gemini • RAG Pipelines • AI-based test generation  
-
----
-
-## 📫 Contact
-📧 bathalapalli.devaki@gmail.com  
-🔗 https://www.linkedin.com/in/devakibathalapalli/
+⭐ I am interested in opportunities involving **SDET, QA Automation, Playwright, AI-assisted testing, mobile automation, API testing, Salesforce QA, and quality engineering**.
